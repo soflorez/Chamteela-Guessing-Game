@@ -1,9 +1,12 @@
 import { CONFIG } from './config'
 
 export const WORDS = [
-'móyla',
-"'áamo",
-"'anó'",
+"'awáal",
+"'á$wut",
+'lóoviq',
+"hilá'i",
+"pa'ásh",
+
 ]
 
 if (CONFIG.normalization) {
